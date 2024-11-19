@@ -1,0 +1,2 @@
+www.billboard.com###onetrust-consent-sdk
+www.nytimes.com##.fides-overlay
